@@ -1,8 +1,5 @@
 #RAC中文资源列表
 
-QQ讨论群：430033580 
-欢迎进群一起讨论。
-
 ##入门
 
 [ReactiveCocoa 和 MVVM 入门](http://yulingtianxia.com/blog/2015/05/21/ReactiveCocoa-and-MVVM-an-Introduction/)
